@@ -1,1 +1,0 @@
-# Writing-Mongoose-schema---Practice-assignment-2
